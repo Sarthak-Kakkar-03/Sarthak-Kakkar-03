@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarthak-Kakkar-03
-- 👀 I’m interested in Fintech/HFT (diving into it)
-- 🌱 I’m currently learning Racket
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a project I am supposed to think of soon
 - 📫 How to reach me, use my gmail sarthakkakkar2021@gmail.com
 
