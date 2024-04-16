@@ -11,7 +11,7 @@ I have a flair for video editing and am proficient in software like DaVinci Reso
 
 🎤 Leadership & Teamwork:
 In high school, I honed my leadership skills by hosting events and successfully leading teams of over 60 people. This experience has equipped me with the ability to manage large groups and coordinate complex tasks effectively.
-- 📫 How to reach me, use my email sarthakkakkar2021@gmail.com
+- 📫 How to reach me, use my email kakkar.sa@northeastern.edu
 
 <!---
 Sarthak-Kakkar-03/Sarthak-Kakkar-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
