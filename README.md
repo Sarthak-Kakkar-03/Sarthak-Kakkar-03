@@ -1,6 +1,6 @@
 # Greetings! I'm Sarthak Kakkar  
 
-I am a third-year Computer Science major at Northeastern University, deeply passionate about Machine Learning, Software Engineering, and creating innovative solutions at the intersection of technology and user-centered design.
+I am a foruth-year Computer Science major at Northeastern University, deeply passionate about Machine Learning, Software Engineering, and creating innovative solutions at the intersection of technology and user-centered design.
 
 ---
 
@@ -32,5 +32,5 @@ I bring strong leadership and organizational skills to all my endeavors:
 ---
 
 ## Contact Information  
-**Email**: [kakkar.sa@northeastern.edu](mailto:kakkar.sa@northeastern.edu)  
+**Email**: [kakkar.sar@gmail.com](mailto:kakkar.sar@gmail.com)  
 **Portfolio**: [https://skakkarsportfolio.netlify.app/](https://skakkarsportfolio.netlify.app/)  
